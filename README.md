@@ -6,7 +6,8 @@
 
 <!-- SOCIAL -->
 <p align="center">
-  <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png"/><a href="https://www.linkedin.com/in/eric-ratovonirina-a5480a1bb/" target="_blank">
+  <a href="https://www.linkedin.com/in/eric-ratovonirina-a5480a1bb/" target="_blank">
+  <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://wa.me/+261342487719" target="_blank"><img width="32px" alt="WhatsApp" title="WhatsApp" src="https://cdn-icons-png.flaticon.com/128/733/733585.png"/></a>
