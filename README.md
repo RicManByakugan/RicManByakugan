@@ -6,13 +6,14 @@
 
 <!-- SOCIAL -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/eric-ratovonirina-a5480a1bb/" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/128/1384/1384014.png" style="filter: brightness(0) saturate(100%) invert(43%) sepia(82%) saturate(594%) hue-rotate(140deg) brightness(95%) contrast(90%);"/></a>
+  <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png"/><a href="https://www.linkedin.com/in/eric-ratovonirina-a5480a1bb/" target="_blank">
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/+261342487719" target="_blank"><img width="32px" alt="WhatsApp" title="WhatsApp" src="https://cdn-icons-png.flaticon.com/128/1384/1384007.png" style="filter: brightness(0) saturate(100%) invert(43%) sepia(82%) saturate(594%) hue-rotate(140deg) brightness(95%) contrast(90%);"/></a>
+  <a href="https://wa.me/+261342487719" target="_blank"><img width="32px" alt="WhatsApp" title="WhatsApp" src="https://cdn-icons-png.flaticon.com/128/733/733585.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://web.facebook.com/Byakugan.64" target="_blank"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn-icons-png.flaticon.com/128/4701/4701482.png" style="filter: brightness(0) saturate(100%) invert(43%) sepia(82%) saturate(594%) hue-rotate(140deg) brightness(95%) contrast(90%);"/></a>
+  <a href="https://web.facebook.com/Byakugan.64" target="_blank"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn-icons-png.flaticon.com/128/733/733547.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:eric.ratovonirina@gmail.com" target="_blank"><img width="32px" alt="Email" title="Email" src="https://cdn-icons-png.flaticon.com/128/3178/3178158.png" style="filter: brightness(0) saturate(100%) invert(43%) sepia(82%) saturate(594%) hue-rotate(140deg) brightness(95%) contrast(90%);"/></a>
+  <a href="mailto:eric.ratovonirina@gmail.com" target="_blank"><img width="32px" alt="Email" title="Email" src="https://cdn-icons-png.flaticon.com/128/732/732200.png"/></a>
 </p>
 
 
@@ -47,7 +48,7 @@
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=RicManByakugan&repo=RicManByakugan&countColor=%2308E8FF"/>
 </p>
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=Visit my portfolio&amp;duration=1000&amp;repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=Visit+my+portfolio&amp;duration=1000&amp;repeat=false">
 </p>
 <p align="center">
   <a href="https://ratovonirina.onrender.com/">
