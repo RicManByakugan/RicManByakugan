@@ -1,15 +1,17 @@
-### Hi there 👋, I'm Eric from Madagascar 🇲🇬 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=1000&repeat=false&width=460&height=60&lines=Eric+Ratovonirina" alt="Eric Ratovonirina" /></a>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=445&lines=Full-stack+web+and+app+developer;Always+learning+new+things;3%2B+years+of+coding+experience" alt="Eric Ratovonirina<" /></a>
 </p>
 
-<a href="https://github.com/mattnix4/github-stats">
-  <p align='center'>
-    <img src="https://github.com/mattnix4/github-stats/blob/master/generated/overview.svg"/>
-    <img src="https://github.com/mattnix4/github-stats/blob/master/generated/languages.svg"/>
-  </p>
-</a>
+
+
+<p align="center"> 
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RicManByakugan&theme=dark" alt="GitHub Streak" /></a>
+</p>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -25,7 +27,3 @@
 <!-- <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=RicManByakugan&repo=RicManByakugan&countColor=%2308E8FF"/>
 </p> -->
-
-<p align="center"> 
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RicManByakugan&theme=dark" alt="GitHub Streak" /></a>
-</p>
