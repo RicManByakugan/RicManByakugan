@@ -21,7 +21,7 @@
 
 <!-- SUBTITLE -->
 <p align="center" style="background: #1c1c1c;">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=Full-stack+web+and+app+developer;Always+learning+new+things;3%2B+years+of+coding+experience&amp;duration=6000">
+  <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=Full-stack+web+and+app+developer;Always+learning+new+things;+5%2Byears+of+coding+experience&amp;duration=6000">
 </p>
 
 
