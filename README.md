@@ -48,11 +48,8 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=RicManByakugan&repo=RicManByakugan&countColor=%2308E8FF"/>
 </p>
-<p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=product+sans&amp;color=06ACBD&amp;center=true&amp;lines=Visit+my+portfolio&amp;duration=1000&amp;repeat=false">
-</p>
 <p align="center">
   <a href="https://ratovonirina.onrender.com/">
-    <img src="https://img.shields.io/badge/Here-%2308E8FF.svg?style=for-the-badge&logo=github&logoColor=white" alt="Here">
+    <img src="https://img.shields.io/badge/Portfolio-%2308E8FF.svg?style=for-the-badge&logo=github&logoColor=white" alt="Here">
   </a>
 </p>
